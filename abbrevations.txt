@@ -1,0 +1,6 @@
+HLY-TEMP-NORMAL	Temperature mean
+HLY-CLDH-NORMAL	Cooling degree hours
+HLY-HTDH-NORMAL	Heating degree hours
+HLY-PRES-NORMAL	Sea level pressure mean
+HLY-CLOD-PCTCLR Clouds clear percentage
+HLY-WIND-AVGSPD	Average wind speed
